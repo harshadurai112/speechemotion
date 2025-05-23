@@ -1,5 +1,4 @@
 # SPEECH-EMOTION-RECOGNITION-USING-CNN-CLASSIFICATION
-https://youtu.be/ApaIKjK2PhU
 . This code implements a Convolutional Neural
 Network (CNN) model for audio classification using the
 TESS dataset. The purpose of the code is to classify audio
